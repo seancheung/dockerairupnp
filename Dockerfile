@@ -1,4 +1,4 @@
-FROM ubuntu:noble
+FROM ubuntu:jammy
 LABEL maintainer="Sean Cheung <theoxuanx@gmail.com>"
 
 ARG TARGETPLATFORM
